@@ -1,3 +1,7 @@
+# dbt-core Setup
+
+## Just the facts Ma'am
+
 ### Setting up Python Environment
 
 ```bash
